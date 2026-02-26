@@ -44,9 +44,9 @@
 
 <h3>📂</h3>
 <pre>
-Symbol-Craft/
-├── main.c        <--- Core logic
-└── README.md     <--- You are here
+Symbol_Craft/
+└── main.c        <--- Core logic
+- README.md       <--- You are here
 </pre>
 
 <hr>
