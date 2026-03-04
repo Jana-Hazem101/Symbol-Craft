@@ -14,7 +14,7 @@ int main(void)
         int space2 = 24;
         decor(decore);
         space(decore);
-        printf("Pixel Name\n");
+        printf("Symbol Craft\n");
         space(space2);
         printf("Turn any name into art\n");
         decor(decore);
