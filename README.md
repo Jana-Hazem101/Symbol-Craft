@@ -8,12 +8,7 @@
 
 <hr>
 
-<h3>🚧 In Progress</h3>
-<p>
-  The latest updates and active development are happening on the <code>master</code> branch.
-</p>
-
-<h3>The Project</h3>
+<h3>♡ Project Overview</h3>
 <p>
   Pixel Name Art is a C-based console application. 
 </p>
@@ -25,22 +20,45 @@
 
 <hr>
 
-<h3>My Learning Journey</h3>
-<p>While building this, I didn't just learn C; I mastered the <b>Git Basics</b>:</p>
-<ul>
-  <li>How to manage versions using <code>commits</code>.</li>
-  <li>Understanding <code>branches</code> (Check out the <b>master</b> branch for the latest code!).</li>
-  <li>Handling basic rendering logic and pixel mapping.</li>
-</ul>
+<section>
+  <h3>♡ Sample Output</h3>
+  
+  <div style="background-color: #f6f8fa; padding: 20px; border-radius: 10px; border: 1px solid #d1d5da;">
+    <p style="margin-top: 0;"><strong>Input:</strong></p>
+    <ul>
+      <li><b>Symbol:</b> <code>@</code></li>
+      <li><b>Name:</b> <code>Hello</code></li>
+      <li><b>Size:</b> <code>2</code></li>
+    </ul>
+    
+   <p><strong>Result:</strong></p>
+   <pre style="font-family: monospace; line-height: 1.2; color: #24292e; font-weight: bold;">
+@@      @@                @@@@        @@@@
+@@      @@                @@@@        @@@@
+@@      @@    @@@@@@        @@          @@        @@@@@@    
+@@      @@    @@@@@@        @@          @@        @@@@@@
+@@@@@@@@@@  @@@@@@@@@@      @@          @@      @@      @@
+@@@@@@@@@@  @@@@@@@@@@      @@          @@      @@      @@
+@@      @@  @@              @@          @@      @@      @@  
+@@      @@  @@              @@          @@      @@      @@
+@@      @@    @@@@@@        @@          @@        @@@@@@
+@@      @@    @@@@@@        @@          @@        @@@@@@
+
+   </pre>
+  </div>
+</section>
 
 <hr>
 
-<h3>Current Features</h3>
+<h3>♡ My Learning Journey</h3>
+<p>While building this, I didn't just learn C; I mastered the <b>Git Basics</b>:</p>
 <ul>
-  <li>✅ Input validation for symbols and sizes.</li>
-  <li>✅ Clean and structured function-based design.</li>
-  <li>✅ Decorative console layout.</li>
+ <li><b>Version Control:</b> How to manage project milestones using <code>commits</code>.</li>
+ <li><b>Branching:</b> Understanding <code>branches</code> (Check out the <b>master</b> branch for the latest code!).</li>
+ <li><b>Memory Layout:</b> Understanding how 2D arrays occupy memory and how to access them efficiently.</li>
 </ul>
+
+<hr>
 
 <h3>📂</h3>
 <pre>
